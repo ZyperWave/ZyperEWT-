@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZyperEWT刷课", "ZyperEWT刷课.csproj", "{63CA9484-8595-4238-9172-958CA3697A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63CA9484-8595-4238-9172-958CA3697A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CA9484-8595-4238-9172-958CA3697A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CA9484-8595-4238-9172-958CA3697A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CA9484-8595-4238-9172-958CA3697A62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {805C0B3B-E22A-4FDA-938A-1135E29C5837}
+	EndGlobalSection
+EndGlobal
